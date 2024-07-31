@@ -1,0 +1,13 @@
+demo
+aktor = user dan admin
+bagian user : membuat creat 
+bagian admin : membuat galeri photo
+
+konsep mvc
+m = model
+v = view
+c = controller  
+
+selasa 16/07/2024
+materi oop php
+1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
